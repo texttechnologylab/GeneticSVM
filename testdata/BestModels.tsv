@@ -1,0 +1,4 @@
+class_index	model_file	model_index	model_name	recall	precision	f
+1	1/t2g0.01c10000x1-Model	12	t2g0.01c10000x1	0.3333	0.2	0.249991
+2	2/t2g0.1c100x1-Model	3	t2g0.1c100x1	0.5	0.5	0.5
+3	3/t2g0.000001c1000000x1-Model	42	t2g0.000001c1000000x1	0.5	0.6667	0.571441

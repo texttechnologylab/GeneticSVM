@@ -1,0 +1,414 @@
+Genetic SVM Study Report
+parameterFile: C:\Users\gleim\projects\GeneticSVM\testdata\parameter.model
+indexFile: C:\Users\gleim\projects\GeneticSVM\testdata\object.index
+dataFile: C:\Users\gleim\projects\GeneticSVM\testdata\object.matrix
+
+Turn: 1
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+48.8896888728892	0000001010010000000010111010001010000100001000000100010100001	26.229508196721312%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+44.04771467969041	1111111111111111111111111111111111111111111111111111111111111	100.0%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+41.2702494214451	0001110000010011000000000000000010100110100000100001001110110	29.508196721311474%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+36.11	1110011111111110011111111111100010111110001111110111111111111	80.32786885245902%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+35.71469386588955	1111111111111101101101111111011110111111111111111011111101011	86.88524590163935%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+34.5230888176868	1110101111111110111111011111111111110110110111111111111111111	88.52459016393442%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 10000.0 -g 1.0E-4 ]
+32.40709488787493	1010100001000001010001110000001001111010101100111110000010011	42.622950819672134%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 22.22222222222222 Precision = 20.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+26.45617519922288	1110101011100111010010111100111111000001100110111001111111111	65.57377049180327%
+	[ Label = 0 fMeasure = 22.224444000000002 Precision = 16.67 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+Average F-Measure of turn: 39.41892873591512
+
+Turn: 2
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+48.8896888728892	0000001010010000000010111010001010000100001000000100010100001	26.229508196721312%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+44.04771467969041	1111111111111111111111111111111111111111111111111111111111111	100.0%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+43.12284186588955	1110111111111111111011111111111111011111111000101111110111111	86.88524590163935%
+	[ Label = 0 fMeasure = 22.224444000000002 Precision = 16.67 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+41.666666666666664	1111111101110101101101101111011110011101011110110001110101010	68.85245901639344%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+37.30006800388593	0110011111111101011111101111100010111110011111111111111111111	80.32786885245902%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+36.111111111111114	0000001010010000001010111000001010000000101000000100010100001	26.229508196721312%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 33.333333333333336 Precision = 50.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+33.333020813800864	1110101111011110110111011111111111110010010111111111111111111	81.9672131147541%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+31.48148148148148	0000110000010011000000010100100110100110110001100001101110110	39.34426229508197%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 44.44444444444444 Precision = 40.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+31.48148148148148	1000001000100101010010000001110000111110001100001001000101010	36.0655737704918%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+	[ Label = 2 fMeasure = 44.44444444444444 Precision = 40.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+Average F-Measure of turn: 40.27857278554338
+
+Turn: 3
+58.413090210108486	1111011001010101111101101111011110011111001110110000110001010	62.295081967213115%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+48.8896888728892	0000001010010000000010111010001010000100001000000100010100001	26.229508196721312%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+44.04771467969041	1111111111111111111111111111111111111111111111111111111111111	100.0%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+41.66635414713419	1111111111111111111111111111111111100111111111011111111111111	95.08196721311475%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+37.30006800388593	0110011111101101011111101111100000111110011111111101111111111	75.40983606557377%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+36.4806814494802	0000001011010000010011111010100010000000001000000010010100001	29.508196721311474%
+	[ Label = 0 fMeasure = 39.99759990399616 Precision = 50.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 44.44444444444444 Precision = 40.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+35.71469386588955	1100110101110001100100011011111011101111010101010101011010111	60.65573770491803%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+35.18592577777778	1110111111111111110011110111111111011101111000101111110110111	80.32786885245902%
+	[ Label = 0 fMeasure = 22.224444000000002 Precision = 16.67 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 33.333333333333336 Precision = 50.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.001 ]
+33.333333333333336	0010001010010000001010111000110010000000101000000100010100001	29.508196721311474%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+Average F-Measure of turn: 42.63832032187263
+
+Turn: 4
+62.96265044343048	0100000010010001010010111010000110000010001000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+58.413090210108486	1111011001010101111101101111011110011111001110110000110001010	62.295081967213115%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+49.20605439844576	1011011011100101110101101111011110011111011110110001110000010	62.295081967213115%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 100000.0 -g 0.001 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+48.8896888728892	0000001010010000000010111010001010000100001000000100010100001	26.229508196721312%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+44.999687480467536	0111111111110111010111111101111111100111111111011111011010111	81.9672131147541%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 100000.0 -g 1.0E-4 ]
+39.814502295282345	1111111111011111111100111111111110111110101011011111111111101	85.24590163934427%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 44.44444444444444 Precision = 40.0 Recall = 50.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+38.889629481481485	1110111110011111111110110111110111110101101111011111110111111	81.9672131147541%
+	[ Label = 0 fMeasure = 22.224444000000002 Precision = 16.67 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 44.44444444444444 Precision = 40.0 Recall = 50.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+35.7134693411052	0100111111101101011111101111100010111110111111111111111111101	78.68852459016394%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+34.52371382745395	0000101011010000010010111010000000000000001000100010010101011	31.147540983606557%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+Average F-Measure of turn: 46.876413922920165
+
+Turn: 5
+62.96265044343048	0100000010010001010010111010000110000010001000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+58.413090210108486	1111011001010101111101101111011110011111001110110000110001010	62.295081967213115%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+49.999687480467536	1111111001010101101101101111011100011111001110110010111001010	63.9344262295082%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+49.20605439844576	1011011011101101110101101111011110011111111110110101110000011	68.85245901639344%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 100000.0 -g 0.001 ]
+	[ Label = 2 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+45.71309380188699	0100000110010001011000111010100010000010001010000110010011001	36.0655737704918%
+	[ Label = 0 fMeasure = 39.99759990399616 Precision = 50.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 57.14408159766864 Precision = 66.67 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 39.99759990399616 Precision = 33.33 Recall = 50.0 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+44.52388880168712	1110001101101011011111101011011110101000000001101011000111101	57.377049180327866%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+44.24165287853719	0000001000010010000010111110000010000101001000010100011110001	32.78688524590164%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+33.333020813800864	0111001111110101010111011101111010100111111111011111001110110	70.49180327868852%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+29.99919996799872	1111111101011111111100111111111010011010101010011111101101101	73.77049180327869%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 39.99759990399616 Precision = 33.33 Recall = 50.0 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+Average F-Measure of turn: 47.37439916749004
+
+Turn: 6
+75.00031249023469	0100000010010101010010111110000111000010001000100110010010001	37.704918032786885%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+65.73962962962963	0100000000010001111000111010110110000010010000000110010010000	32.78688524590164%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+62.96265044343048	0100000010010001010010111010000110000010001000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+58.413090210108486	1111011001010101111101101111011110011111001110110000110001010	62.295081967213115%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+55.81969763351557	1110001111100010011111101011111110111000000000101011000101101	55.73770491803279%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 100000.0 -g 0.001 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+49.999687480467536	1101110001010101010101101111111111010111001110110010110001011	62.295081967213115%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.001 ]
+49.999687480467536	1111111011000101111101101111100100111111001110110110111001000	65.57377049180327%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.001 ]
+42.59148148148148	1011011001101101110100001111011110011011111110111100110000011	62.295081967213115%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 44.44444444444444 Precision = 40.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+25.0	0110101001100011100001100000000000110001100000010010101111001	37.704918032786885%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 25.0 Precision = 25.0 Recall = 25.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+Average F-Measure of turn: 54.08778897278726
+
+Turn: 7
+75.00031249023469	0101000000000100010010011010000110000011101000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+75.00031249023469	0100000010010101010010111110000111000010001000100110010010001	37.704918032786885%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+67.8567346705526	0100000010010101010010111110100110000010001000101110010011001	40.98360655737705%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+65.73962962962963	0100000000010001111000111010110110000010010000000110010010000	32.78688524590164%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+62.96265044343048	0100000010010001010010111010000110000010001000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+62.96265044343048	0100000000000001111000010010110110010011011000000110100010000	32.78688524590164%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+56.19086798788626	1111001011011001111101101011011100011111101111110000100001010	60.65573770491803%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+55.35165287853719	1010000000100100010010010001110000111110001100001000001100010	34.42622950819672%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 72.72495863561156 Precision = 57.14 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-5 ]
+	[ Label = 2 fMeasure = 60.0 Precision = 50.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+49.999687480467536	1101111001010001010111101111111111010101011110110010110001011	63.9344262295082%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 50.0 Precision = 50.0 Recall = 50.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.001 ]
+41.26902489666076	1110001111100010011111101011111110111100000001101011000101101	59.01639344262295%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 28.57020401165781 Precision = 33.33 Recall = 25.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-6 ]
+Average F-Measure of turn: 61.23335234110643
+
+Turn: 8
+75.00031249023469	0101000000000100010010011010000110000011101000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+75.00031249023469	0100000010010101010010111110000111000010001000100110010010001	37.704918032786885%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+67.8567346705526	0100000010010101010010111110100110000010001000101110010011001	40.98360655737705%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+65.73962962962963	0110000000000001111000000010110111000001011000001010100010000	31.147540983606557%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+62.96265044343048	0101000000000110110000011010000100100011101000000101010010001	32.78688524590164%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+62.961851851851854	0100000000010001111000111010100100000011000000000110010010000	29.508196721311474%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+58.333333333333336	0100000010000001011010101100000110000010101010000000000000101	27.868852459016395%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000000.0 -g 1.0E-4 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+51.85259244444445	1111001011111001111101101001011101011111101111110000100001010	62.295081967213115%
+	[ Label = 0 fMeasure = 22.224444000000002 Precision = 16.67 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 100000.0 -g 1.0E-4 ]
+Average F-Measure of turn: 64.96342716921397
+
+Turn: 9
+75.00031249023469	0101000000000100010010011010000110000011101000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+75.00031249023469	0100000010010101010010111110000111000010001000100110010010001	37.704918032786885%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+71.66586663466539	0110000010000001011000101100000110000010101110100000000000101	31.147540983606557%
+	[ Label = 0 fMeasure = 39.99759990399616 Precision = 50.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+67.96216293096168	0100000010010101010010111010010111000010001001100010010010011	39.34426229508197%
+	[ Label = 0 fMeasure = 39.99759990399616 Precision = 50.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100000.0 -g 1.0E-4 ]
+67.8567346705526	0100000010010101010010111110100110000010001000101110010011001	40.98360655737705%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+64.1530309668489	0100000010011101010011111110100110000010101000101110010011011	47.540983606557376%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+64.1530309668489	0110010000000100111010011010000110000011101000000100010010001	34.42622950819672%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+62.96265044343048	0110000000011001110001000110110101000001011001001010101010000	37.704918032786885%
+	[ Label = 0 fMeasure = 24.999062441402586 Precision = 20.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100000.0 -g 0.001 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+61.375253189071124	0100000000000110111000011010000111100011011000000101010010001	36.0655737704918%
+	[ Label = 0 fMeasure = 28.57020401165781 Precision = 25.0 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 66.66666666666667 Precision = 60.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+46.75401808441007	0000000000110001111010111010100100000011000000000010010100000	29.508196721311474%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 85.71428571428571 Precision = 100.0 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 54.54776853894451 Precision = 42.86 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+Average F-Measure of turn: 65.68833728672585
+
+Turn: 10
+80.55555555555556	0100000111010100010010111110100111000010001010100100010010101	42.622950819672134%
+	[ Label = 0 fMeasure = 66.66666666666667 Precision = 50.0 Recall = 100.0 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+75.00031249023469	0101000000000100010010011010000110000011101000000100010010001	29.508196721311474%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+75.00031249023469	0100000010010101010010111110000111000010001000100110010010001	37.704918032786885%
+	[ Label = 0 fMeasure = 50.000937470704045 Precision = 40.0 Recall = 66.67 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+71.66586663466539	0110000010000001011000101100000110000010101110100000000000101	31.147540983606557%
+	[ Label = 0 fMeasure = 39.99759990399616 Precision = 50.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 100.0 Precision = 100.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+67.96216293096168	0100000011010101010010111010010111000010001001110010110010011	44.26229508196721%
+	[ Label = 0 fMeasure = 39.99759990399616 Precision = 50.0 Recall = 33.33 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 100000.0 -g 1.0E-4 ]
+65.73962962962963	0100010011010101010010111100100110000011001000001110000010001	39.34426229508197%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 1000.0 -g 0.01 ]
+65.73962962962963	0100000010011101010011100111100110000010101001101000010010011	42.622950819672134%
+	[ Label = 0 fMeasure = 33.33 Precision = 33.33 Recall = 33.33 Parameters = -t 2 -c 10000.0 -g 0.01 ]
+	[ Label = 1 fMeasure = 88.88888888888889 Precision = 80.0 Recall = 100.0 Parameters = -t 2 -c 100000.0 -g 1.0E-4 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 10000.0 -g 0.001 ]
+51.66746665066699	0110010000001101111010011010000110000111001000010100010010001	39.34426229508197%
+	[ Label = 0 fMeasure = 0.0 Precision = -1.0 Recall = -1.0 Parameters = null ]
+	[ Label = 1 fMeasure = 80.00239995200096 Precision = 66.67 Recall = 100.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+	[ Label = 2 fMeasure = 75.0 Precision = 75.0 Recall = 75.0 Parameters = -t 2 -c 10.0 -g 0.1 ]
+Average F-Measure of turn: 69.16636700144728
